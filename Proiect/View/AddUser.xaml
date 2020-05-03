@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Proiect.View.AddUser"
+             Title="Registration" 
+             BackgroundColor="#D5E7FA">
+    <ScrollView  x:Name="listView">
+        <StackLayout Padding="40,60,40,0" VerticalOptions="FillAndExpand" Spacing="70">
+           
+            <Label Text="Inregistreaza-te" TextColor="Blue" HorizontalOptions="CenterAndExpand" FontSize="30"/>
+            <StackLayout Spacing="20">
+                <Entry Placeholder="Nume" Text="{Binding Name}" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>
+                <Entry Placeholder="Nume de utilizator" Text="{Binding UserName}"  HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>
+                <Entry Placeholder="Varsta" Text="{Binding Age}" HeightRequest="40"  HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>
+                <Entry Placeholder="Parola" IsPassword="true" Text="{Binding Password}" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>
+                <Entry Placeholder="Confirma parola" IsPassword="true" Text="{Binding ConfirmPassword}" HeightRequest="40" HorizontalOptions="FillAndExpand"  TextColor="Gray" BackgroundColor="White"/>
+                <Button Text="Inregistreaza" HorizontalOptions="FillAndExpand" TextColor="Blue" Command="{Binding AddUserCommand}" HeightRequest="40"  BackgroundColor="White"/>
+               
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
