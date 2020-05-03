@@ -1,0 +1,16 @@
+C:\Users\Adriana\source\repos\Proiect\Proiect\bin\Debug\netstandard2.0\Proiect.deps.json
+C:\Users\Adriana\source\repos\Proiect\Proiect\bin\Debug\netstandard2.0\Proiect.dll
+C:\Users\Adriana\source\repos\Proiect\Proiect\bin\Debug\netstandard2.0\ref\Proiect.dll
+C:\Users\Adriana\source\repos\Proiect\Proiect\bin\Debug\netstandard2.0\Proiect.pdb
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\Proiect.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\View\AddUser.xaml.g.cs
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\Proiect.AssemblyInfoInputs.cache
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\Proiect.AssemblyInfo.cs
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\Proiect.dll
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\ref\Proiect.dll
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\Proiect.pdb
+C:\Users\Adriana\source\repos\Proiect\Proiect\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs

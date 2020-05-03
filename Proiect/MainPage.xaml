@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Proiect.MainPage">
+
+    
+        <AbsoluteLayout>
+        <FlexLayout IsVisible="True" JustifyContent="SpaceEvenly" Direction="Column" AlignItems="Center" Margin="30,0,30,0" >
+            <Button x:Name="logIn" FontSize="Medium" BorderColor="Black" FlexLayout.AlignSelf="Stretch" CornerRadius="5"  Clicked="LoginButton_Clicked" HorizontalOptions="CenterAndExpand" Text="Autentifica-te" TextColor="White" BackgroundColor="#00b33c"/>
+                <Label Text="sau" FontSize="15" TextColor="DarkGray" BackgroundColor="Transparent" FlexLayout.AlignSelf="Center"/>
+                <Button x:Name="signUp" FontSize="Medium" TextColor="White" BorderColor="Black" BackgroundColor="#00b33c"  CornerRadius="5" FlexLayout.AlignSelf="Stretch"  Clicked="SignUp_Clicked" HorizontalOptions="CenterAndExpand" Text="Inregistreaza-te"/>
+                <Label Text=""/>
+            </FlexLayout>
+        </AbsoluteLayout>
+        
+
+</ContentPage>
